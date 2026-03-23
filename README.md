@@ -26,6 +26,7 @@ Full-stack developer from Ethiopia, passionate about building clean, scalable we
 - 🟨 **JavaScript**  
 - ⚛️ **React**  
 - 🟢 **Node.js**
+- 🟦 **Taillwind**
 
 ---
 
