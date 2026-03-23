@@ -21,28 +21,29 @@ Full-stack developer from Ethiopia, passionate about building clean, scalable we
 
 ## ⚡ Skills
 
-- ![HTML](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg) **HTML**  
-- ![CSS](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg) **CSS**  
-- ![JavaScript](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg) **JavaScript**  
-- ![React](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/react.svg) **React**  
-- ![Node.js](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/node-dot-js.svg) **Node.js**
+- 🟧 **HTML**  
+- 🟦 **CSS**  
+- 🟨 **JavaScript**  
+- ⚛️ **React**  
+- 🟢 **Node.js**
 
 ---
 
 ## 📈 GitHub Performance
 
-![Contributions Graph](https://docs.github.com/assets/cb-35216/images/help/profile/contributions-graph.png)  
+📊 1,247 contributions in the last year  
 
-1,247 contributions in the last year
+![Contributions Graph](https://docs.github.com/assets/cb-35216/images/help/profile/contributions-graph.png)  
 
 ---
 
 ## 📬 Contact Me
 
-[![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg?size=24)](https://github.com/abudiayuu) GitHub  
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?size=24)](https://www.linkedin.com/in/abudiayuu) LinkedIn  
-[![Telegram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg?size=24)](https://t.me/abudiayuu) Telegram  
-[![Email](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg?size=24)](mailto:abudiayuu@gmail.com) Email
+- 🐙 **GitHub:** [github.com/abudiayuu](https://github.com/abudiayuu)  
+- 💼 **LinkedIn:** [linkedin.com/in/abudiayuu](https://www.linkedin.com/in/abudiayuu)  
+- 📲 **Telegram:** [t.me/abudiayuu](https://t.me/abudiayuu)  
+- 📧 **Email:** [abudiayuu@gmail.com](mailto:abudiayuu@gmail.com)
+
 ---
 
 ## 🚀 Projects
