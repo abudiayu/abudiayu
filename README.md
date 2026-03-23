@@ -39,11 +39,10 @@ Full-stack developer from Ethiopia, passionate about building clean, scalable we
 
 ## 📬 Contact Me
 
-[![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg)](https://github.com/abudiayuu) GitHub  
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/abudiayuu) LinkedIn  
-[![Telegram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg)](https://t.me/abudiayuu) Telegram  
-[![Email](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg)](mailto:abudiayuu@gmail.com) Email
-
+[![GitHub](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg?size=24)](https://github.com/abudiayuu) GitHub  
+[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg?size=24)](https://www.linkedin.com/in/abudiayuu) LinkedIn  
+[![Telegram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg?size=24)](https://t.me/abudiayuu) Telegram  
+[![Email](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg?size=24)](mailto:abudiayuu@gmail.com) Email
 ---
 
 ## 🚀 Projects
