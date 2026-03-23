@@ -25,8 +25,10 @@
 
 ## 🚀 Projects
 
-* 🔗 Portfolio Website (Coming Soon)
-* 🔗 Airbnb Clone (React + Tailwind)
+* 🔗 Portfolio Website https://qadire.vercel.app/
+* 🔗 Airbnb Clone https://babilon-air.netlify.app/
+* 🔗 Delivery app https://Ourscafe.netlify.app
+* 🔗 E-commerce https://tinabay.netlify.app/
 
 ---
 
