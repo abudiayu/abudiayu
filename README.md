@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Kadir
 
-<!--
-**abudiayu/abudiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Fullstack Developer | React Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+* 🔭 I’m currently working on **React projects, fulastack app development**
+* 🌱 I’m learning **advanced JavaScript & UI design**
+* 🎯 Goal: Become a **top developer in Silicon Valley**
+* 💬 Ask me about **React, Tailwind CSS, Web Design,Fullstack App development**
+
+---
+
+## 🛠️ Tech Stack
+
+* ⚛️ React
+* 🎨 Tailwind CSS
+* 💻 JavaScript (ES6+)
+* 🌐 HTML & CSS
+* 🌐 Nodejs
+
+---
+
+## 🚀 Projects
+
+* 🔗 Portfolio Website (Coming Soon)
+* 🔗 Airbnb Clone (React + Tailwind)
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [your-email@example.com](mailto:abudiayuu@gmail.com)
+* 🌍 Location: Ethiopia
+
+---
+
+## ⚡ Fun Fact
+
+I love building clean and smooth UI designs 🌿
